@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marciohssilveira
-- 👀 I’m interested in Meteorology and Machine Learning
+- 👀 I’m interested in Data Analysis and Machine Learning
 - 🌱 I’m currently learning how to improve machine learning algorithms
 - 📫 You can reach me on linkedin.com/in/marciohssilveira
 
